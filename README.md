@@ -1,3 +1,4 @@
+![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)
 <h1 align="center">Hi 👋, I'm Saúl Salazar Ozuna</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
