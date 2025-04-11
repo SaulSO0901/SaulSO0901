@@ -1,10 +1,10 @@
 ![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)
 <h1 align="center">Hi 👋, I'm Saúl Salazar Ozuna</h1>
-<h3 align="center">A passionate frontend developer from Mexico</h3>
+<h3 align="center">A passionate  Web Developer from Mexico</h3>
 
-- 🔭 I’m currently working on [Sourwater](https://github.com/SaulSO0901/Sourwater)
+- 🔭 I’m currently working on [mern-store](https://github.com/SaulSO0901/mern-store)
 
-- 🌱 I’m currently learning **Bootstrap**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SaulSO0901/Portfolio](https://github.com/SaulSO0901/Portfolio)
 
